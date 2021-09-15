@@ -1,3 +1,4 @@
+#input-elif-statement
 
 a = int(input("a = "))
 b = int(input("b = "))
